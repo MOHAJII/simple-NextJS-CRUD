@@ -1,1 +1,1 @@
-Simple Next.JS CRUD 
+Simple Next.JS CRUD web site
